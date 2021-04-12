@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Siddharth Anand Srivastav</h1>
+<h3 align="center">An Electronics Engineering Undergrad from IIT-BHU, Varanasi</h3>
+<p align="center"> <img src=https://komarev.com/ghpvc/?username=AnandSidd alt=AnandSidd/> </p>
+<p align="center">
+<a href=https://www.linkedin.com/in/siddharth-anand-srivastav-767206190/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="Siddharth" height="20" width="20" /></a>
+<a href=https://www.facebook.com/siddharthanand.srivastav/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg alt="Siddarth" height="20" width="20" /></a>
+<a href=https://instagram.com/__siddharth_101 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg alt="__siddharth_101" height="20" width="20" /></a>
+</p>
+<ul align="center">
+  <li> 💬 Ask me about <b>Android, Machine Learning, C++, C, Java, Kotlin etc</b></li>
+</ul>
+<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=AnandSidd&show_icons=true alt=AnandSidd /> 
+</p>
 
-<!--
-**AnandSidd/AnandSidd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
