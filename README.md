@@ -11,4 +11,6 @@
 </ul>
 <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=AnandSidd&show_icons=true alt=AnandSidd /> 
 </p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnandSidd&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
 
